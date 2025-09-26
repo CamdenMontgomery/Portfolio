@@ -6,7 +6,7 @@ export default function Contact() {
     return (
         <Container perspective="300px">
         <Stack className="contact-container" direction="column">
-            <Image maxHeight="60vh" src="/oranges.jpg"></Image>
+            <Image maxHeight="60vh" src="/Portfolio/oranges.jpg"></Image>
             <Flex direction="row" className="contact-text-container">
                 <Flex direction="column" className="contact-info-container">
                     <Heading color="darkorange" fontWeight="900">

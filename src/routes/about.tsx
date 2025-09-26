@@ -29,26 +29,26 @@ export default function About() {
                             <Heading className="do-section-header">UI/UX Designs</Heading>
                             <Text className="do-section-text">“ I find UI design fascinating. the way colors and fonts and the placing of things can draw the eye and evoke emotion. I like playing with different designs and trying to im a bit of a perfectionist in this aspect, i find myself shifting items pixel by pixel when searching for the right placement of things. “</Text>
                         </Container>
-                        <Image className="do-section-image" src="/ux.svg"></Image>
+                        <Image className="do-section-image" src="/Portfolio/ux.svg"></Image>
                     </Stack>
                     <Stack direction="row-reverse">
                         <Container className="do-section-text-container">
                             <Heading className="do-section-header">Chrome Extensions</Heading>
                             <Text className="do-section-text">“ I find UI design fascinating. the way colors and fonts and the placing of things can draw the eye and evoke emotion. I like playing with different designs and trying to im a bit of a perfectionist in this aspect, i find myself shifting items pixel by pixel when searching for the right placement of things. “</Text>
                         </Container>
-                        <Image className="do-section-image" src="/extension.svg"></Image>
+                        <Image className="do-section-image" src="/Portfolio/extension.svg"></Image>
                     </Stack>
                     <Stack direction="row">
                         <Container className="do-section-text-container">
                             <Heading className="do-section-header">Mobile Applications</Heading>
                             <Text className="do-section-text">“ I find UI design fascinating. the way colors and fonts and the placing of things can draw the eye and evoke emotion. I like playing with different designs and trying to im a bit of a perfectionist in this aspect, i find myself shifting items pixel by pixel when searching for the right placement of things. “</Text>
                         </Container>
-                        <Image className="do-section-image" src="/mobile.svg"></Image>
+                        <Image className="do-section-image" src="/Portfolio/mobile.svg"></Image>
                     </Stack>
                     <Stack direction="column">
                         <Heading className="do-section-header">& Much More...</Heading>
 
-                        <Image src="/other.svg"></Image>
+                        <Image src="/Portfolio/other.svg"></Image>
                     </Stack>
                 </Flex>
             </Stack>
@@ -78,7 +78,7 @@ For me, coding is all about solving problems and improving the way we live. In t
 
 
                     </Container>
-                    <Image src="/drink.svg"></Image>
+                    <Image src="/Portfolio/drink.svg"></Image>
 
 
                 </Flex>

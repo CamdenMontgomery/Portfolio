@@ -5,7 +5,7 @@
   padding: 2rem;
   text-align: center;
   animation: scrollBackground 30s linear infinite;
-  background: URL("/background.svg");
+  background: URL("/Portfolio/background.svg");
 }
 
 @keyframes scrollBackground {
