@@ -8,7 +8,7 @@ const navLinkStyles = ({ isActive } : {isActive : boolean}) => ({
 export default function Navbar() {
   return (
     <nav>
-      <NavLink to="/projects" style={navLinkStyles}>Projects</NavLink>
+      {/*<NavLink to="/projects" style={navLinkStyles}>Projects</NavLink>*/}
       <NavLink to="/about" style={navLinkStyles}>About</NavLink>
       <NavLink to="/contact" style={navLinkStyles}>Contact</NavLink>
     </nav>
