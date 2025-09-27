@@ -17,7 +17,9 @@ export default function About() {
             <Stack className="screen-block">
                 <Flex perspective="300px" direction="column">
                     <Heading className="section-header">Who I Am</Heading>
-                    <Text className="introduction-text">I’m Camden Montgomery, a recent Computer Science graduate from Florida International University. I’ve been building software since 2018, when I taught myself to code over the summer. Since then, I’ve been focused on creating software that is not only functional but also enjoyable to use and visually appealing.</Text>
+                    <Text className="introduction-text">I’m Camden Montgomery, a recent Computer Science graduate from Florida International University, now looking for a chance to bring my skills into a professional setting. I’ve been making projects since I was about 15, but it wasn’t until high school that programming really clicked for me. I’ve always loved puzzle games and games like Little Big Planet where you build things — I spent hours experimenting with logic gates, making wacky robots, not even realizing how much I’d come to love programming.<br/><br/>I’d tried programming before in a class, but it didn’t grab me at the time because I didn’t have much choice in what I was learning. That summer when I taught myself, everything changed. Suddenly, I could build whatever I wanted, and that freedom pushed me to keep learning and growing.
+<br/><br/>
+Now, I’m ready to take that ability and apply it in a professional setting. I’ve already built things to make my own life easier, and I want to use those skills to make life easier for many others.</Text>
                 </Flex>
                 <Image></Image>
             </Stack>
@@ -27,21 +29,21 @@ export default function About() {
                     <Stack direction="row">
                         <Container className="do-section-text-container">
                             <Heading className="do-section-header">UI/UX Designs</Heading>
-                            <Text className="do-section-text">“ I find UI design fascinating. the way colors and fonts and the placing of things can draw the eye and evoke emotion. I like playing with different designs and trying to im a bit of a perfectionist in this aspect, i find myself shifting items pixel by pixel when searching for the right placement of things. “</Text>
+                            <Text className="do-section-text">I design user interfaces that are easy to understand and use across games, apps, and websites. I’ve put together menus and layouts for things like a multiplayer racing game to help students get around campus, and a VR fitness app with menus and progress tracking. Most of my work happens in Figma, where I’m always tweaking details, sometimes pixel by pixel, to make sure everything feels just right. Over time, I’ve gotten pretty good at finding that balance between how something looks and how it works, so users don’t get stuck or confused.</Text>
                         </Container>
                         <Image className="do-section-image" src="/Portfolio/ux.svg"></Image>
                     </Stack>
                     <Stack direction="row-reverse">
                         <Container className="do-section-text-container">
                             <Heading className="do-section-header">Chrome Extensions</Heading>
-                            <Text className="do-section-text">“ I find UI design fascinating. the way colors and fonts and the placing of things can draw the eye and evoke emotion. I like playing with different designs and trying to im a bit of a perfectionist in this aspect, i find myself shifting items pixel by pixel when searching for the right placement of things. “</Text>
+                            <Text className="do-section-text">I build Chrome extensions that add handy features and make everyday tasks smoother. One extension pulls professor ratings right into course registration pages so students don’t have to jump between sites. I work with APIs and GraphQL to grab real-time info and build clean, customizable interfaces using JavaScript, HTML, and CSS. I also make sure the extensions work well for everyone by adding features like colorblind modes and different themes. The goal is to keep things simple and reliable but flexible enough to fit different needs.</Text>
                         </Container>
                         <Image className="do-section-image" src="/Portfolio/extension.svg"></Image>
                     </Stack>
                     <Stack direction="row">
                         <Container className="do-section-text-container">
                             <Heading className="do-section-header">Mobile Applications</Heading>
-                            <Text className="do-section-text">“ I find UI design fascinating. the way colors and fonts and the placing of things can draw the eye and evoke emotion. I like playing with different designs and trying to im a bit of a perfectionist in this aspect, i find myself shifting items pixel by pixel when searching for the right placement of things. “</Text>
+                            <Text className="do-section-text">I design and prototype mobile apps using Figma and Swift, focusing on clean and easy-to-use interfaces. I work on projects like a satellite tracking app, handling everything from picking colors to designing all the screens and creating interactive prototypes. I like to keep things straightforward and consistent so people can get around the app without any hassle. I’m still learning and growing, but I’m confident in making apps that are solid and ready to be built on or polished later.</Text>
                         </Container>
                         <Image className="do-section-image" src="/Portfolio/mobile.svg"></Image>
                     </Stack>

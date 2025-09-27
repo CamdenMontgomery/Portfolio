@@ -124,6 +124,14 @@ nav {
     padding: 1rem;
     border: solid white 1px;
     border-radius: 10px;
+    max-width: 800px;
+    display: flex
+;
+    font-size: 1.2rem;
+    border: none;
+    font-weight: 600;
+    flex-direction: row;
+    color: #ffffff;
 }
 
 
